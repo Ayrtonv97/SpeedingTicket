@@ -9,3 +9,6 @@ This assignment was developed to purposely help me understand the use of OOP and
 
 ## Speed Ticket Example
 ![SpeedTicket](images/SpeedTicket.PNG)
+
+## View project
+[See the SpeedTickProgram project on github!](https://github.com/Ayrtonv97/SpeedingTicket)
